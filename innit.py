@@ -18,7 +18,7 @@ def logo():
                    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
                                                                                                        
                                     
-                                            Discord.gg/SxhVXSVwbu
+                                            Discord.gg/fHRNZXHvZY
                                              Made By Tech9oSmart
     """
     c = Colorate.Horizontal(Colors.blue_to_cyan, l)
